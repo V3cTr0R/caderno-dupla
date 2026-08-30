@@ -107,10 +107,8 @@ Com isso, a branch `main` passou a conter contribuições de mais de um autor, f
 
 <!-- IMAGEM 6: Terminal ou a aba “Commits” mostrando o commit “Adiciona dica do Aluno B”. -->
 
-```text
-![Adição do commit do aluno 2 seguido do erro na hora do push](./img/image1.6)
-![Problema de password resolvida seguido do push do aluno 2](./img/image1.7)
-```
+![Adição do commit do aluno 2 seguido do erro na hora do push](./img/image1.6.png)
+![Problema de password resolvida seguido do push do aluno 2](./img/image1.7.png)
 
 ## Criação da branch Versao0.2
 
@@ -132,18 +130,14 @@ git push -u origin Versao0.2
 
 A branch `Versao0.2` ficou disponível no GitHub de forma independente da `main`. Isso demonstra como branches permitem desenvolver alterações isoladas antes de uma possível integração com a versão principal.
 
-<!-- IMAGEM 7: inserir o terminal mostrando a criação da branch Versao0.2 e o push.
-Sugestão: mostrar também o resultado de git branch. -->
+<!-- IMAGEM 7: inserir o terminal mostrando a criação da branch Versao0.2 e o push.-->
 
-```text
-[INSERIR IMAGEM: criação e publicação da branch Versao0.2]
-```
+![Criação e publicação da branch Versao0.2](./img/image1.8.png)
 
 <!-- IMAGEM 8: inserir o seletor de branches do GitHub mostrando main e Versao0.2. -->
 
-```text
-[INSERIR IMAGEM: branches main e Versao0.2 no GitHub]
-```
+![Branches main e Versao0.2 no GitHub](./img/image1.9.png)
+
 
 ## Situação que causou o conflito
 
