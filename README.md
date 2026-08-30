@@ -25,7 +25,7 @@ O repositório foi criado no GitHub a partir da opção **New**.
 <!-- IMAGEM 1: inserir uma captura da página de repositórios mostrando o botão “New”.
 Caminho sugerido: ./img/new-repository-1.0.jpg -->
 
-![Página de repositórios com o botão New](./img/new-repository-1.0.png)
+![Página de repositórios com o botão New](./img/image1.0.png)
 
 Na criação, foram definidas as seguintes configurações:
 
@@ -45,7 +45,7 @@ O repositório foi deixado vazio, sem README, licença ou `.gitignore` criados p
 <!-- IMAGEM 2: inserir a tela “Create a new repository” preenchida, antes de clicar em “Create repository”.
 Caminho sugerido: ./img/new-repository-1.1.jpg -->
 
-![Configurações usadas para criar o repositório](./img/new-repository-1.1.png)
+![Configurações usadas para criar o repositório](./img/image1.1.png)
 
 Após a criação, o GitHub apresentou a URL remota que seria usada para conectar o projeto local:
 
@@ -56,7 +56,7 @@ https://github.com/V3cTr0R/caderno-dupla.git
 <!-- IMAGEM 3: inserir a tela de “Quick setup” do repositório vazio, contendo a URL HTTPS.
 Caminho sugerido: ./img/new-repository-1.2.jpg -->
 
-![Repositório vazio e URL remota](./img/new-repository-1.2.png)
+![Repositório vazio e URL remota](./img/image1.2.png)
 
 ## Publicação inicial do projeto
 
@@ -75,18 +75,16 @@ Nesse momento, o repositório local passou a possuir uma branch principal chamad
 
 O primeiro commit registrou o estado inicial do arquivo antes das contribuições colaborativas e antes do teste de conflito.
 
-<!-- IMAGEM 4: inserir o terminal mostrando o primeiro commit e o push concluído com sucesso.
-Sugestão de captura: comandos git init, git add, git commit e git push. -->
+<!-- IMAGEM 4: Terminal mostrando o primeiro commit e o push concluído com sucesso. -->
 
-```text
-[INSERIR IMAGEM: primeiro commit e publicação da branch main]
-```
+![img](./img/image1.3.png)
+![img](./img/image1.4.png)
 
-<!-- IMAGEM 5: inserir a página do GitHub após o primeiro push, mostrando index.html e o primeiro commit. -->
+<!-- IMAGEM 5: Página do GitHub após o primeiro push, mostrando index.html e o primeiro commit. -->
 
-```text
-[INSERIR IMAGEM: conteúdo inicial publicado no GitHub]
-```
+A página do repositório no GitHub passou a exibir o arquivo `index.html` e o commit inicial.
+
+![Print do pós push](./img/image1.5.png)
 
 ## Preparação para o trabalho colaborativo
 
