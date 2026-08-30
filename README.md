@@ -105,10 +105,11 @@ git push origin main
 
 Com isso, a branch `main` passou a conter contribuições de mais de um autor, formando o histórico necessário para a etapa seguinte.
 
-<!-- IMAGEM 6: inserir o terminal ou a aba “Commits” mostrando o commit “Adiciona dica do Aluno B”. -->
+<!-- IMAGEM 6: Terminal ou a aba “Commits” mostrando o commit “Adiciona dica do Aluno B”. -->
 
 ```text
-[INSERIR IMAGEM: segunda contribuição enviada para main]
+![Adição do commit do aluno 2 seguido do erro na hora do push](./img/image1.6)
+![Problema de password resolvida seguido do push do aluno 2](./img/image1.7)
 ```
 
 ## Criação da branch Versao0.2
